@@ -1,0 +1,23 @@
+
+
+.container{
+
+	background-color: #C94B4B;
+	width: 40%;
+	height:90%;
+	align-items:left;
+
+}
+.form{align-content: center;
+	margin: 80px;
+text-align: left;}
+label{margin: 10px;
+text-align: left;
+display: inline-block;}
+input,textarea,button{margin: 10px;
+border-radius: 5px; 
+display: inline-block;}
+.bt:hover{color: red;
+background-color: green;}
+.bt{clear:  left;}
+textarea{margin-left: 20px;}
